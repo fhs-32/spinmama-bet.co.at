@@ -1,0 +1,11 @@
+name = "spinmama-bet-co-at"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmama-bet.co.at"
+HMAC_KEY = "a58012c2c73d7d02659fbd9c51e9b98aa61bbf8adae3c3a231ea1a4e14145207"
+COOKIE_NAME = "afc"
+PLAY_PATH = "discover"
+BUTTON_ID = "pab9ed3d961a58e2310322819cfeb3fac"
+GATE_SALT = "e6a85944b3a8b4e9"
